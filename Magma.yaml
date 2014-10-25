@@ -15,6 +15,3 @@ folders:
 sites:
     - map: magma.local
       to: /home/vagrant/www/magma/public
-
-    - map: volt.local
-      to: /home/vagrant/www/volt/public
