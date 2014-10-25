@@ -1,0 +1,9 @@
+# System Files
+.DS_Store
+
+# Boxes Storage
+/boxes
+/boxes/*
+
+# Vagrant
+/.vagrant

@@ -1,0 +1,3 @@
+alias ..="cd .."
+alias ...="cd ../.."
+alias magma="rails new magma -d mysql"
