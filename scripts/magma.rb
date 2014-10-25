@@ -1,7 +1,7 @@
 class Magma
   def Magma.configure(config, settings)
     # Configure The Box
-    config.vm.box = "redman/magma-test"
+    config.vm.box = "rossedman/magma"
     config.vm.hostname = "magma"
 
     # Configure A Private Network IP
