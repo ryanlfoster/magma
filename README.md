@@ -1,5 +1,9 @@
 Magma
 =====
+
+![magma-graphic](https://cloud.githubusercontent.com/assets/2628905/7764595/206d5a9a-0019-11e5-827d-61c15995cd02.jpg)
+
+
 Magma was created to allow developers an easy way to get Ruby & Rails applications up and running quickly in a development environment. Magma is a prepackaged basebox that comes with everything you need to get started. It is disposable and lightweight without the worries of altering your operating system. Just grab a copy and `vagrant up` to get going.
 
 ## Included Software
